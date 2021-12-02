@@ -75,7 +75,7 @@ footer a:hover {
 .right {
     position: fixed;
     right: 0;
-    margin-right: 30px;
+    margin-right: 20px;
     height: 30px;
     display: flex;
     align-items: center;
@@ -83,6 +83,7 @@ footer a:hover {
 .left {
     position: fixed;
     left: 0;
+    margin-left: 20px;
 }
 .foot {
     color: #5f6368;
